@@ -1,0 +1,54 @@
+{
+    "categories": [
+      {
+        "id": 1714710395944,
+        "name": "Food"
+      },
+      {
+        "id": 1714710609312,
+        "name": "Movie"
+      }
+    ],
+    "expenses": [
+      {
+        "id": 1714710636314,
+        "title": "Salary",
+        "category_id": 0,
+        "amount": 2,
+        "date": "2024-05-02",
+        "type": "Income"
+      },
+      {
+        "id": 1714710668215,
+        "title": "Dinner",
+        "category_id": 1714710395944,
+        "amount": 1,
+        "date": "2024-05-02",
+        "type": "Expense"
+      },
+      {
+        "id": 1714710706233,
+        "title": "Rent",
+        "category_id": 0,
+        "amount": 25000,
+        "date": "2024-05-03",
+        "type": "Income"
+      },
+      {
+        "id": 1714710730611,
+        "title": "Interest",
+        "category_id": 0,
+        "amount": 2,
+        "date": "2024-05-03",
+        "type": "Income"
+      },
+      {
+        "id": 1714710754566,
+        "title": "Free",
+        "category_id": 0,
+        "amount": 300,
+        "date": "2024-05-03",
+        "type": "Income"
+      }
+    ]
+  }
